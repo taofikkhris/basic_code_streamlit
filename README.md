@@ -1,2 +1,2 @@
-# belajar_streamlit
-Streamlit Python Framework 
+# belajar_basic_streamlit
+Basic Code Streamlit Python Framework 
